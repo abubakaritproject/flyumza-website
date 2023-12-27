@@ -49,7 +49,7 @@ nav ul li a.active {
     height: 150px; /* Increase the height of the hero section */
     text-align: left;
     margin-top: 0;
-    background-image: url('PHOTOS/cloud.jpg');
+    background-image: url('../PHOTOS/cloud.jpg');
     background-size: 100% 100%; /* Set the background size to cover the entire container */
     padding: 50px;
   }
