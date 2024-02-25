@@ -45,6 +45,7 @@ nav ul li a.active {
   .form-group {
     margin-bottom: 15px;
   }
+/* add ... and remove ...  */
   label {
     display: block;
     margin-bottom: 5px;
